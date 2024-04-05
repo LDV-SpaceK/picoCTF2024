@@ -197,7 +197,7 @@ int main()
 
 `$6$6QFbdp2H$R0BGBJtG0DlGFx9H0AjuQNOhlcssBxApM.CjDEiNzfYkVeJRNy2d98SDURNebD5/l4Hu2yyVk.ePLNEg/56DV0`
 
-* $6$ thì chúng ta nhận ra đây là mã băm sha512
+* \$6\$ thì chúng ta nhận ra đây là mã băm sha512
 * mình sử dụng hashcat để decrypt hàm băm này, viết dãy băm này vào file
 
 `hashcat -m 1800 hashfile rockyou.txt`
